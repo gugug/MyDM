@@ -7,10 +7,10 @@ import java.sql.SQLException;
 public class DBHelper {
 
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	static final String DB_URL = "jdbc:mysql://192.168.235.36:3306/fig"; // 193.168.235.15
+	static final String DB_URL = "jdbc:mysql://***:3306/fig";
 
-	static final String USER = "fig";
-	static final String PASS = "fig";
+	static final String USER = "**";
+	static final String PASS = "**";
 
 	/**
 	 * 获取数据库连接
